@@ -34,7 +34,7 @@ h1 {
     .accordion {
         padding: 1em;
         background-color: white;
-        margin: 1.5em;
+        margin: 1.5em 0;
         }        
 
         .accordion-front {
