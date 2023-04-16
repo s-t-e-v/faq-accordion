@@ -13,7 +13,7 @@ const images = [
     "path 2",
     "etc...",
 ];
-
+```
 
 **General observations**:
 Both of the solutions ...
